@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4643cabd9caa94b805490d3d8602d6, type: 3}
+  m_Name: 002Action
+  m_EditorClassIdentifier: 
+  storyText: "You managed scare of those vile creatures for now. You gloat for a moment
+    as you have stated your role as the guardian of the house. However, using your
+    keen senses you realize those beast did not flee, but rather have decided to go
+    through the alley way and are making their way to the back of the house.\r\n\r\nPress
+    [Z] to Scratch at the backyard door.\r\nPress [X] to Run up to the bark window
+    and bark at the Evil Creatures."
+  options:
+  - {fileID: 11400000, guid: 6b6d81344f15ed84fbc374b420337cd7, type: 2}
+  - {fileID: 11400000, guid: 73a4b4d09ee79394abad3522583f0fcc, type: 2}

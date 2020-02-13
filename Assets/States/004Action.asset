@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4643cabd9caa94b805490d3d8602d6, type: 3}
+  m_Name: 004Action
+  m_EditorClassIdentifier: 
+  storyText: "You scratched the door to the backyard, which has triggered your master
+    and best friend to go and open the door for you so that you may go outside.\r\n\r\nPress
+    [Z] to Go outside\r\nPress [X] to Bark to warn your best friend of incoming doom\r\nPress
+    [C] to Grab your toy"
+  options:
+  - {fileID: 11400000, guid: a94fdeff78024a64db3715c07459a1f8, type: 2}
+  - {fileID: 11400000, guid: 73a4b4d09ee79394abad3522583f0fcc, type: 2}
+  - {fileID: 11400000, guid: 4ac316a04ed295942bde921eb0e0f829, type: 2}

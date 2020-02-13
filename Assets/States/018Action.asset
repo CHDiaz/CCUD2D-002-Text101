@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4643cabd9caa94b805490d3d8602d6, type: 3}
+  m_Name: 018Action
+  m_EditorClassIdentifier: 
+  storyText: "The evil beings enter the home you were tasked with protecting with
+    all your life. Their reign of terror is everlasting. You have failed. You are
+    a Bad Dog.\r\n\r\nPress [Z] to Return to Checkpoint"
+  options:
+  - {fileID: 11400000, guid: f2507fd34a25f834599fe41338d2a63e, type: 2}

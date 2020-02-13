@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4643cabd9caa94b805490d3d8602d6, type: 3}
+  m_Name: 011Action
+  m_EditorClassIdentifier: 
+  storyText: "You rush inside in attempt to continue warding off those evil creations
+    of evilness with your trusted companion, Friend Mammoth.\r\n\r\nPress [Z] to Go
+    up stairs\r\nPress [X] to Gain assistance from your Best friend.\r\nPress [C]
+    to Go back outside"
+  options:
+  - {fileID: 11400000, guid: ff6f231b65347f64a82d8c7bd36fef3e, type: 2}
+  - {fileID: 11400000, guid: 484488d1e766b9d4ba46352e5cb00cd0, type: 2}
+  - {fileID: 11400000, guid: 7c22738e214716640a6914779044908c, type: 2}

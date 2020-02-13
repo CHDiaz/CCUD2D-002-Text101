@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4643cabd9caa94b805490d3d8602d6, type: 3}
+  m_Name: 010Action
+  m_EditorClassIdentifier: 
+  storyText: "You bark out into the open in an attempt to scare off those evil monsters.
+    However instead, you squeak Friend Mammoth. This noise is new to the monsters,
+    and they scurry away from their perching spots. They scurry up the house, and
+    towards the second floor window!\r\n\r\nPress [Z] to Go back inside.\r\nPress
+    [X] to Stand your ground\r\nPress [C] to Leave Friend Mammoth standing guard"
+  options:
+  - {fileID: 11400000, guid: 05c57949f462c984d8f99049d1b05c75, type: 2}
+  - {fileID: 11400000, guid: dbc36d403ac51f644866ca1fe4d3e0f1, type: 2}
+  - {fileID: 11400000, guid: f2507fd34a25f834599fe41338d2a63e, type: 2}

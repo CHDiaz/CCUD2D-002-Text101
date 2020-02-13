@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4643cabd9caa94b805490d3d8602d6, type: 3}
+  m_Name: 016Action
+  m_EditorClassIdentifier: 
+  storyText: "You arrive at the second floor and rush into the room with the open
+    window. You can see those evil jerks approaching quickly\r!\n\r\nPress [Z] to
+    Scare them off\r\nPress [X] to See what happens..."
+  options:
+  - {fileID: 11400000, guid: 8712af30ea2920c4dad0b55ccbc902ec, type: 2}
+  - {fileID: 11400000, guid: 866b4100e8830d745af4d5c12e3a16a6, type: 2}

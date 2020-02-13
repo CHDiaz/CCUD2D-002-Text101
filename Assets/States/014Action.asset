@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4643cabd9caa94b805490d3d8602d6, type: 3}
+  m_Name: 014Action
+  m_EditorClassIdentifier: 
+  storyText: "You heartbreakingly left Friend Mammoth behind as you plan to venture
+    back inside. While this hurts imensely, you know Friend Mammoth will NEVER let
+    you down.\r\n\r\nPress [Z] to Pick up Friend Mammoth\r\nPress [X] to Rush back
+    inside, Friend Mammoth-less"
+  options:
+  - {fileID: 11400000, guid: dbc36d403ac51f644866ca1fe4d3e0f1, type: 2}
+  - {fileID: 11400000, guid: 1a75cbc61e3c4544c93a89d9f5363268, type: 2}

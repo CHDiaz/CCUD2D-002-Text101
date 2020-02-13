@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4643cabd9caa94b805490d3d8602d6, type: 3}
+  m_Name: 005Action
+  m_EditorClassIdentifier: 
+  storyText: "You ventured outside. You are unsure of where these even creatures are
+    but you can sense that they are nearby and are closing in....\r\n\r\nPress [Z]
+    to Tell them to get the heck outta here\r\nPress [X] to go back inside"
+  options:
+  - {fileID: 11400000, guid: 6af75a4ab7369f947b65aeadfe5eb1c5, type: 2}
+  - {fileID: 11400000, guid: 6b6d81344f15ed84fbc374b420337cd7, type: 2}
